@@ -1,4 +1,4 @@
-# DichroIDP
+# DichroIDPs
 DichroIDPs is a user-friendly, free-to-download-and-use software program that enables the analyses of circular dichroism (CD) and synchrotron radiation circular dichroism (SRCD) spectroscopic data
 
 
@@ -12,7 +12,7 @@ DichroIDPs is a user-friendly, free-to-download-and-use software program that en
     * Navigate to the dataset folder and open it
     * Inside this are folders named after the various datasets
     * Select a dataset folder (but do not open it)
-    * Click ok on both dialog boxes twice and the dataset should appear in the list box.
+    * Click ok on both dialog boxes and the dataset should appear in the list box.
     * Repeat for the other required datasets.
 * This only needs to be done once. The application will remember where the datasets are and automatically load them whenever it is started, unless you move the package to another location on your hard disk or to another computer.
 * If you move the package to another directory, remove each of the data sets from the dataset list box by clicking the minus sign to the right of it, then upload the datasets again.
