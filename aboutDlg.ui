@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>aboutDlg</class>
+ <widget class="QDialog" name="aboutDlg">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>383</width>
+    <height>508</height>
+   </rect>
+  </property>
+  <property name="minimumSize">
+   <size>
+    <width>383</width>
+    <height>400</height>
+   </size>
+  </property>
+  <property name="maximumSize">
+   <size>
+    <width>383</width>
+    <height>590</height>
+   </size>
+  </property>
+  <property name="windowTitle">
+   <string>About DichroIDP</string>
+  </property>
+  <widget class="QGroupBox" name="groupBox">
+   <property name="geometry">
+    <rect>
+     <x>30</x>
+     <y>10</y>
+     <width>331</width>
+     <height>81</height>
+    </rect>
+   </property>
+   <property name="title">
+    <string/>
+   </property>
+   <widget class="QLabel" name="label_2">
+    <property name="geometry">
+     <rect>
+      <x>50</x>
+      <y>40</y>
+      <width>211</width>
+      <height>30</height>
+     </rect>
+    </property>
+    <property name="maximumSize">
+     <size>
+      <width>16777215</width>
+      <height>30</height>
+     </size>
+    </property>
+    <property name="font">
+     <font>
+      <pointsize>10</pointsize>
+      <weight>75</weight>
+      <bold>true</bold>
+     </font>
+    </property>
+    <property name="text">
+     <string>DichroIDP version 1.0.1</string>
+    </property>
+    <property name="scaledContents">
+     <bool>true</bool>
+    </property>
+    <property name="alignment">
+     <set>Qt::AlignCenter</set>
+    </property>
+   </widget>
+  </widget>
+  <widget class="QLabel" name="label_3">
+   <property name="geometry">
+    <rect>
+     <x>30</x>
+     <y>110</y>
+     <width>321</width>
+     <height>331</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Miles, A.J. and Wallace, B.A., Institute of Structural and Molecular Biology, Birkbeck College, University of London, London U.K.
+Developed with support from a Bioinformatics and Biological Research grant to B.A.W. from the U.K. Biotechnology and Biological Sciences Research Council (BBSRC).
+No responsibility or liability by the authors is assumed for its contents nor for any results produced using this software. Furthermore, no responsibility or liability by the authors will be taken should any usage of this package cause inadvertent damage to any files or hardware of the user. By downloading this application, you are signifying acceptance of the above conditions.
+it is freely available for use by the research community, but when publishing any material that has used this software for data processing or analyses, you agree to cite the paper: Andrew J. Miles, Elliot D. Drew, B.A. Wallace. Nature : communications Biology, 2023&quot;</string>
+   </property>
+   <property name="alignment">
+    <set>Qt::AlignCenter</set>
+   </property>
+   <property name="wordWrap">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="OKButton">
+   <property name="geometry">
+    <rect>
+     <x>140</x>
+     <y>460</y>
+     <width>93</width>
+     <height>28</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>OK</string>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
